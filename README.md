@@ -1,6 +1,8 @@
 # Little Lemon Database
 This is a MySQL Database Engineering project sponsored by Meta
 
+Coursera contestant: Luong Binh Khang
+
 Database Engineer Capstone > 
 Module 4 > 
 Little Lemon database > 
