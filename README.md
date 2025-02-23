@@ -1,6 +1,11 @@
 # Little Lemon Database
 This is a MySQL Database Engineering project sponsored by Meta
 
+Database Engineer Capstone > 
+Module 4 > 
+Little Lemon database > 
+Peer-graded Assignment: Little Lemon database
+
 The purpose of this project is to help Little Lemon manage their database by adding sales reports and creating a table booking system using mySQL.
 Little Lemon needs to build a robust relational database system in MySQL in which they can store large amounts of data. 
 They then need to easily manage and find this data as required. This database system should maintain information about the following aspects of the business:  
